@@ -21,7 +21,7 @@ O projeto adotado para nossas aulas é descendente (top-Down);
 
 Modelo (conceitual) de entidade e relacionamento:
 
-Introduzir por Pter Chew em 1976.
+Introduzir por Pter Chen em 1976.
 
 Entidade: representação abstrata de um "Objeto" do mundo real.
 
