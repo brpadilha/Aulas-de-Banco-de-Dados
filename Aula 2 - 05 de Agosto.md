@@ -6,10 +6,16 @@ Métodos para projetos de banco de dados:
 
 Segue os níveis de abstração "de cima para baixo";
 
-Top down 
-_____________________________
-Mundo real -> mod. descritivo -> mod. conceiual -> mod. operacional -> modelo interno
-_____________________________
+
+___
+
+<center> <h6>Top down</h6> 
+
+![Top-down](figuras/Top-down.png "Top-down")
+
+</center>
+
+___
 
 O projeto adotado para nossas aulas é descendente (top-Down);
 
