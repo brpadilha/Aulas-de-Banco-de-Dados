@@ -108,3 +108,27 @@ Ex: <h4>Fortes e Fracas</h4>
 ![FortesEFracas](figuras/FortesEFracas.png "Fortes e Fracas")
 
 ___
+
+**Exemplos de Relacionamento**
+
+![Exemplo1](figuras/ExemploRelacionamentos1.png "Exemplo 1")
+
+
+![Exemplo1](figuras/ExemploRelacionamentos2.png "Exemplo 2")
+
+___
+<h5>Relacionamentos Binários
+
+![RelacionamentosBinarios](figuras/RelacionamentosBinários.png "Relacionamentos Binários")
+
+___
+
+<h5> Agregação
+
+![Agragacao](figuras/Agregacao.png "Agregação")
+
+___
+
+<h5> Auto Relacionamento
+
+![Exemplo3](figuras/Exemplo3.png "Exemplo 3")
